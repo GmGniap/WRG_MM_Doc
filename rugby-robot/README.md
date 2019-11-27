@@ -1,6 +1,6 @@
 # Rugby Robot
 
-{% hint style="info" %}
+{% hint style="success" %}
 * Robots per Team - 4\(one robot per participant\) 
 * No of Players - 4 players per team \(max\) 
 * Robot Control - Remotely Controlled 
