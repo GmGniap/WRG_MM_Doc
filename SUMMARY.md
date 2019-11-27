@@ -2,7 +2,7 @@
 
 * [World Robot Game Myanmar](README.md)
 * [Line Tracing Game](line-tracing-game.md)
-* [On Water Robot](page1/on-water.md)
-  * [Objective](page1/page1_1.md)
-  * [Robot Dimensions and Specifications](page1/page2_2.md)
+* [On Water Robot](on-water-robot/README.md)
+  * [Objective](on-water-robot/objective.md)
+  * [Robot Dimensions and Specifications](on-water-robot/robot-dimensions-and-specifications.md)
 
