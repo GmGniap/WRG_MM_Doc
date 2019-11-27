@@ -6,7 +6,8 @@
   * [Objective](on-water-robot/objective.md)
   * [Robot Facts](on-water-robot/robot-facts.md)
   * [Game Element](on-water-robot/game-element.md)
-* [Rugby Robot](rugby/README.md)
-  * [Objective](rugby/objective.md)
-  * [Robot Facts](rugby/robot-facts.md)
-  * [Game Elements](rugby/game-elements.md)
+* [Rugby Robot](rugby-robot/README.md)
+  * [Objective](rugby-robot/objective.md)
+  * [Robot Facts](rugby-robot/robot-facts.md)
+  * [Game Elements](rugby-robot/game-elements.md)
+
