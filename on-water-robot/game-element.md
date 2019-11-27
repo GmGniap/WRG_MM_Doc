@@ -49,3 +49,15 @@ The player can restart the robot anytime by informing the referee.
 The player places the robot back on the starting point.
 {% endhint %}
 
+### Penalties
+
+{% hint style="info" %}
+Sports manly conduct is expected from players. Any misconduct, act of cheating, foul language or action to harm the opponent or the robot shall be dealt with by the judges with the recommendation of the referee. 
+
+Penalties can range from losing a match, a game or being banned from the game. 
+
+When a robot starts to move forward before the start alarm. 
+
+When the player leaves the playing area during a temporary suspension without the referee’s permission.
+{% endhint %}
+
