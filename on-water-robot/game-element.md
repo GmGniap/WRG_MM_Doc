@@ -1,6 +1,6 @@
 # Game Element
 
-### Playing Field
+Playing Field
 
 1. The size of the playing field is approximately 12 ft x 6 ft. 
 2. The arrangement of the playing field may vary depending on the venue. 
@@ -33,12 +33,8 @@ The maximum point that can be earned by a team is **150 points**.
 
 * Repair is allowed during the game. During the repair, the running time continues. 
 
-
-
 {% hint style="danger" %}
-{% hint style="warning" %}  
-Only 1 member of the team at a time is allowed into the playing field area to service the robot. The robot cannot be removed from the playing field. The robot will continue, after repairing, from the same location that it malfunctioned.  
-{% endhint %}
+Only 1 member of the team at a time is allowed into the playing field area to service the robot. The robot cannot be removed from the playing field. The robot will continue, after repairing, from the same location that it malfunctioned.
 {% endhint %}
 
 
