@@ -28,5 +28,21 @@
 
    c. To unify the robot's color for team identification, display numbers with complementary colors that are easy to see.
 
+### Robot Restrictions
+
+1.  Do not incorporate interfering radio wave generator or interfering 
+
+   Bluetooth. 
+
+2. Do not damage the ball itself or deliberately hide it. 
+3. Do not mount a device to fix the ball to the robot. 
+4. Do not use parts that damage the playing field or contaminate it.
+5. Do not set up a device that contains liquid, powder and gas and blows 
+
+   again the opponent. 
+
+6. Do not incorporate an ignition device. 
+7. Devices separating the robot body should not be built in. 
+
 
 
